@@ -22,6 +22,3 @@ userTwo.ID = 65894 // here ID for both, userOne and UserTwo will get change... b
 
 console.log(userOne.ID);
 console.log(userTwo.ID);
-
-
-

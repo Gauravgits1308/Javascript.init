@@ -99,7 +99,3 @@ const browserType = "mozilla";
         console.log(hero.split('-')); // splits for each dashes into an 'array'.
 
  */
-
-
-
-

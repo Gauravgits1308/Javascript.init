@@ -41,6 +41,3 @@ Some Boolean Conversions
     "" (empty string) => false
     "gaurav" (non-empty string) => true
  */
-
-
-

@@ -44,7 +44,3 @@ const myFunction = function Hello(){
 }
 
 console.log(myFunction());
-
-
-
-

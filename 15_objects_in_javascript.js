@@ -110,15 +110,3 @@ console.log(obj.hasOwnProperty("Contact"));
 
 console.log(Object.keys(arr_obj)); // Returns in an array
 console.log(Object.values(arr_obj)); // Returns in an array
-
-
-
-
-
-
-
-
-
-
-
-
